@@ -1,0 +1,8 @@
+RAPPORT D'ANALYSE
+Produits analysés : 5
+Produits controversés : 2
+Top 3 produits sucrés :
+      product_name  sugars_100g
+4    Cookies Choco         30.0
+0  Céréales Chocos         25.0
+2        Soda Cola         10.5

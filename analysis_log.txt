@@ -1,0 +1,9 @@
+[2025-06-17 11:39:55] Démarrage de l'analyse
+[2025-06-17 11:40:16] Démarrage de l'analyse
+[2025-06-17 11:40:16] Données chargées : 5 produits
+[2025-06-17 11:40:16] Prétraitement des données terminé
+[2025-06-17 11:40:18] Visualisations générées
+[2025-06-17 11:40:18] 2 produits controversés identifiés
+[2025-06-17 11:40:18] Résultats exportés
+[2025-06-17 15:14:23] Données chargées : 5 produits
+[2025-06-17 15:14:23] Nettoyage des données terminé
