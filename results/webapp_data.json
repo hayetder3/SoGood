@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "product_name": "C\u00e9r\u00e9ales Chocos",
+      "brands": "Chocopops",
+      "categories": "breakfast_cereals",
+      "nutri_score": "D",
+      "nova_group": 3,
+      "sugars_100g": 25.0,
+      "additives_n": 4,
+      "sugar_category": "\u00c9lev\u00e9 (>15g)",
+      "danger_score": 29.5
+    },
+    {
+      "product_name": "Yaourt Nature",
+      "brands": "Village Laitier",
+      "categories": "yogurts",
+      "nutri_score": "A",
+      "nova_group": 1,
+      "sugars_100g": 4.5,
+      "additives_n": 0,
+      "sugar_category": "Faible (<5g)",
+      "danger_score": 5.2
+    },
+    {
+      "product_name": "Soda Cola",
+      "brands": "Cola France",
+      "categories": "beverages",
+      "nutri_score": "E",
+      "nova_group": 4,
+      "sugars_100g": 10.5,
+      "additives_n": 5,
+      "sugar_category": "Moyen (5-15g)",
+      "danger_score": 27.2
+    },
+    {
+      "product_name": "P\u00e2tes Compl\u00e8tes",
+      "brands": "PastaMania",
+      "categories": "pasta",
+      "nutri_score": "B",
+      "nova_group": 1,
+      "sugars_100g": 1.2,
+      "additives_n": 1,
+      "sugar_category": "Faible (<5g)",
+      "danger_score": 5.6
+    },
+    {
+      "product_name": "Cookies Choco",
+      "brands": "CookieTime",
+      "categories": "biscuits",
+      "nutri_score": "E",
+      "nova_group": 4,
+      "sugars_100g": 30.0,
+      "additives_n": 6,
+      "sugar_category": "\u00c9lev\u00e9 (>15g)",
+      "danger_score": 39.0
+    }
+  ],
+  "top_danger": [
+    {
+      "product_name": "Cookies Choco",
+      "danger_score": 39.0,
+      "brands": "CookieTime"
+    },
+    {
+      "product_name": "C\u00e9r\u00e9ales Chocos",
+      "danger_score": 29.5,
+      "brands": "Chocopops"
+    },
+    {
+      "product_name": "Soda Cola",
+      "danger_score": 27.2,
+      "brands": "Cola France"
+    },
+    {
+      "product_name": "P\u00e2tes Compl\u00e8tes",
+      "danger_score": 5.6,
+      "brands": "PastaMania"
+    },
+    {
+      "product_name": "Yaourt Nature",
+      "danger_score": 5.2,
+      "brands": "Village Laitier"
+    }
+  ],
+  "brands": [
+    {
+      "brands": "Village Laitier",
+      "avg_sugar": 4.5,
+      "avg_score": 5.0,
+      "worst_product": "Yaourt Nature"
+    },
+    {
+      "brands": "PastaMania",
+      "avg_sugar": 1.2,
+      "avg_score": 4.0,
+      "worst_product": "P\u00e2tes Compl\u00e8tes"
+    },
+    {
+      "brands": "Chocopops",
+      "avg_sugar": 25.0,
+      "avg_score": 2.0,
+      "worst_product": "C\u00e9r\u00e9ales Chocos"
+    },
+    {
+      "brands": "Cola France",
+      "avg_sugar": 10.5,
+      "avg_score": 1.0,
+      "worst_product": "Soda Cola"
+    },
+    {
+      "brands": "CookieTime",
+      "avg_sugar": 30.0,
+      "avg_score": 1.0,
+      "worst_product": "Cookies Choco"
+    }
+  ],
+  "alternatives": [
+    {
+      "original": "C\u00e9r\u00e9ales Chocos",
+      "alternatives": []
+    },
+    {
+      "original": "Soda Cola",
+      "alternatives": []
+    },
+    {
+      "original": "Cookies Choco",
+      "alternatives": []
+    }
+  ]
+}

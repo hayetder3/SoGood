@@ -1,0 +1,6 @@
+product_name,brands,categories,nutri_score,nova_group,sugars_100g,additives_n
+Céréales Chocos,Chocopops,breakfast_cereals,d,3,25.0,4
+Yaourt Nature,Village Laitier,yogurts,a,1,4.5,0
+Soda Cola,Cola France,beverages,e,4,10.5,5
+Pâtes Complètes,PastaMania,pasta,b,1,1.2,1
+Cookies Choco,CookieTime,biscuits,e,4,30.0,6
